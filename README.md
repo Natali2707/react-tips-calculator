@@ -20,9 +20,9 @@
 
 ## About The Project
 
-<img src="/preview/democalc.png" style="width: 70%; margin: 0 auto!important; display: block!important;">
+<img src="/preview/democalc.jpg" style="width: 70%; margin: 0 auto!important; display: block!important;">
 
-<strong>Reduce your efforts</strong>
+<strong>Reduce your efforts</strong><br/>
 With this tool you can save your time and effort, it's easy to calculate the tip, just enter the service charge along with the tip percentage and we can get the tip amount easily.
 
 ### Built With Next Pakages & Libraries:
