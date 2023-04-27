@@ -1,46 +1,52 @@
-# Getting Started with Create React App
+<a name="react-budget-app"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<div align="center">
+  <a href="https://github.com/Natali2707/react-tips-calculator">
+    <img src="/preview/calculator.png" alt="Logo" width="80" height="80">
+  </a>
 
-## Available Scripts
+  <h3 align="center">React-Tips-Calculator</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    An application that will help you to calculate the tip, just enter the service charge along with the tip percentage!
+    <br />
+    <a href="https://github.com/Natali2707/react-tips-calculator"><strong>Explore this App >>>></strong></a>
+    <br />
+    <br />
+    <a href="https://natali2707.github.io/react-tips-calculator/">View Demo</a>
+  </p>
+</div>
 
-### `npm start`
+## About The Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src="/preview/democalc.png" style="width: 70%; margin: 0 auto!important; display: block!important;">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<strong>Reduce your efforts</strong>
+With this tool you can save your time and effort, it's easy to calculate the tip, just enter the service charge along with the tip percentage and we can get the tip amount easily.
 
-### `npm test`
+### Built With Next Pakages & Libraries:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+[typescript.js]: https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB
+[typescript-url]: https://www.typescriptlang.org/
+[gh-pages.js]: https://img.shields.io/badge/GH-pages-20232A?style=for-the-badge&logo=gh-pages&logoColor=61DAFB
+[gh-pages-url]: https://docs.github.com/en/pages
+[styled-components.js]: https://img.shields.io/badge/Styled%20Components-20232A?style=for-the-badge&logo=Styled%20Components&logoColor=61DAFB
+[styled-components-url]: https://styled-components.com/
+[react-select.js]: https://img.shields.io/badge/React%20Select-20232A?style=for-the-badge&logo=React%20Select&logoColor=61DAFB
+[react-select-url]: https://react-select.com/home
 
-### `npm run build`
+- [![React][react.js]][react-url]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [![TypeScript][typescript.js]][typescript-url]
+- [![GH-pages][gh-pages.js]][gh-pages-url]
+- [![styled-components][styled-components.js]][styled-components-url]
+- [![react-select][react-select.js]][react-select-url]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contact
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+My name-Natallia Alisevich- [@mail.ru]- alisevich.nata@mail.ru
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Project Link: [https://github.com/Natali2707/react-tips-calculator](https://github.com/Natali2707/react-tips-calculator)
